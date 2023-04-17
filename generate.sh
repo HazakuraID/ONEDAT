@@ -57,7 +57,7 @@ echo "::endgroup::"
 
 if [[ -f "lists/bromite-default.txt" ]]; then
     echo "::group::Downloading official list"
-    wget -O "lists/bromite-default.txt" "https://raw.githubusercontent.com/bromite/filters/master/lists.txt"
+    wget -O "lists/bromite-default.txt" "https://raw.githubusercontent.com/HazakuraID/filters/main/filters.txt"
     echo "::endgroup::"
 fi
 
