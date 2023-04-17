@@ -1,8 +1,8 @@
-#ONEDAT
+# ONEDAT
 adalah proyek untuk membuat daftar filter [Bromite](https://www.bromite.org/). Lihat halaman tentang [Custom Ad Block Filters](https://www.bromite.org/custom-filters) untuk info lebih lanjut.
 
 # Lists
-Anda dapat memilih daftar mana saja dari tabel, lalu tahan nama untuk menyalin tautannya. Tambahkan ke Bromite dengan masuk ke pengaturan > AdBlock pengaturan, lalu atur "Filter URL" ke tautan yang baru saja anda salin.
+anda dapat memilih daftar mana saja dari tabel, lalu tahan nama untuk menyalin tautannya. Tambahkan ke Bromite dengan masuk ke pengaturan > AdBlock pengaturan, lalu atur "Filter URL" ke tautan yang baru saja anda salin.
 
 | Link | Description  |
 | ------ | ------|
@@ -34,7 +34,7 @@ Untuk membuat daftar baru:
     # Baris berikut tidak berfungsi, hanya masukkan komentar atau URL dalam satu baris, tidak keduanya
     http://  # Komentar tidak valid pada URL
     ```
-6. Simpan file anda, komit dan dorong. Tindakan GitHub sekarang harus membuat daftar dan membuat rilis
+6. Simpan file anda, commit dan push. Tindakan GitHub sekarang harus membuat daftar dan membuat rilis
 7. Setelah GitHub Actions generated rilis, anda dapat menyalin URL tertaut di rilis untuk selalu mendapatkan yang terbaru generated versi. URL ini terlihat seperti `https://github.com/USERNAME/filtrite/releases/latest/download/FILENAME.dat`. Jika URL Anda (kecuali bagian nama pengguna/nama file) berisi angka, Anda menyalin tautan yang salah.
 8. Pastikan ukuran file filter yang dihasilkan kurang dari jumlah maksimum yang diizinkan [20 MB](https://github.com/bromite/bromite/blob/6f40f8341ab3fbcab458c10fe7b6bbcb8f881404/build/patches/Bromite-subresource-adblocker.patch#L1160-L1161). Jika tidak, anda harus menghapus beberapa daftar
 9. Tetapkan URL ini sebagai file filter di pengaturan Bromite.
