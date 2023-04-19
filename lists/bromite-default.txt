@@ -1,2 +1,1 @@
-https://github.com/HazakuraID/filters/blob/main/filters.txt
-https://github.com/HazakuraID/filters/blob/main/uBoPlusCustom.txt
+# https://github.com/HazakuraID/filters/blob/main/uBoPlusCustom.txt
