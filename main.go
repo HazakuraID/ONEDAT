@@ -16,7 +16,8 @@ const (
 	distDir = "dist"
 	logDir  = "logs"
 
-	bromiteMaxFilterSize = 1024 * 1024 * 20
+	bromiteMaxFilterSize = 1024 * 1024 * 50
+	const int kMaxBodySize = 1024 * 1024 * 50
 )
 
 // generateFilterList generates a filter list from the listTextFile
