@@ -49,9 +49,35 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimet
 
 # Language for international
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
-https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
+https://cdn.jsdelivr.net/gh/realodix/AdBlockID@latest/dist/adblockid_plus.adfl.txt
+https://cdn.jsdelivr.net/gh/realodix/AdBlockID@latest/dist/adblockid.adfl.txt
 https://raw.githubusercontent.com/Yuki2718/adblock2/main/japanese/jpf-plus.txt
 https://easylist-downloads.adblockplus.org/abpindo+easylist.txt
+
+# brave is that are feature update check-filters
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-android-specific.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-cookie-specific.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-specific.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-sugarcoat.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-unbreak.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/clean-urls.json
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/debounce.json
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/https-upgrade-exceptions-list.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/request-otr.json
+
+# d3ward bypass
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+
+# track list and domains cname record
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_original_trackers.txt
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
 
 # Custom New
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
@@ -76,5 +102,5 @@ https://filters.adtidy.org/extension/chromium/filters/3.txt
 https://filters.adtidy.org/extension/chromium/filters/4.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/filterlist/specific/AntiAPKMirrorCountdown.txt
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
-https://easylist-msie.adblockplus.org/abp-filters-anti-cv.txt
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
+https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
